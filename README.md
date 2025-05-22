@@ -1,6 +1,10 @@
 ### [Course Machine Learning From Beginning to Master](https://nascenia.com/ml-course/) resources
 
-Powered by [Nascenia Limited](https://nascenia.com/)
+[![Powered by](https://img.shields.io/badge/Powered_By-Nascenia-orange)](https://nascenia.com/)
+[![Author: utshabkg](https://img.shields.io/badge/Author-utshabkg-25554E)](https://github.com/utshabkg/)
+[![Author: smnhasan](https://img.shields.io/badge/Author-smnhasan-25554E)](https://github.com/smnhasan/)
+[![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-blue)](https://github.com/utshabkg/Course-Machine-Learning-From-Beginning-to-Master/)
+[![GitHub stars](https://img.shields.io/github/stars/utshabkg/Course-Machine-Learning-From-Beginning-to-Master?style=social)](https://github.com/utshabkg/Course-Machine-Learning-From-Beginning-to-Master/stargazers)
 
 <img src="https://github.com/utshabkg/Course-Machine-Learning-From-Beginning-to-Master/blob/master/ml%20course.png" alt="Banner" width="500"/>
 
@@ -31,9 +35,3 @@ Powered by [Nascenia Limited](https://nascenia.com/)
 12. MLOps – Model Deployment, Versioning, CI/CD, Monitoring
 
 🔗 বিস্তারিত জানতে এবং সম্পূর্ণ কোর্স মডিউল দেখতে ভিজিট করুন: https://nascenia.com/ml-course/
-
-
-[![Author](https://img.shields.io/badge/author-utshabkg-red)](https://github.com/utshabkg/)
-[![Author](https://img.shields.io/badge/author-smnhasan-red)](https://github.com/smnhasan/smnhasan)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](https://github.com/utshabkg/Course-Machine-Learning-From-Beginning-to-Master/)
-[![Stars](https://img.shields.io/github/stars/utshabkg/Course-Machine-Learning-From-Beginning-to-Master?style=social)](https://github.com/utshabkg/Course-Machine-Learning-From-Beginning-to-Master/stargazers)
